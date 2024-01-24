@@ -17,9 +17,6 @@ I'm a data analyst. My entry into analytics was in 2020 when I started taking my
 </p>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -37,10 +34,6 @@ I'm a data analyst. My entry into analytics was in 2020 when I started taking my
 
 
 </td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
