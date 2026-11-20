@@ -1,21 +1,65 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dan
-===========================================================================================================================
+# Hi, I'm Dan Tsurev
 
-Digital Analyst
----------------
+**Data Analyst** · SQL · Python · BI (Looker, Power BI, Tableau)  
+Tel Aviv, Israel · Open to new opportunities
 
-I'm a data analyst. My entry into analytics was in 2020 when I started taking my first the web analytics course . I got my first experience in a marketing company, analyzing mailings, doing serious analysis and RFM analysis for clients. During this time I have completed several chickens, but I am constantly learning. Now I'm looking for a new job!
+I work with data to answer business questions and turn findings into something a team can use. I started in web analytics in 2020, and my first role was at a marketing company, where I analyzed email campaigns and ran RFM analysis for clients. I keep building my toolkit and am looking for my next data analyst role.
 
-* 🌍  I'm based in Tel Aviv
-* ✉️  You can contact me at [tsurevdan@gmail.com](mailto:tsurevdan@gmail.com)
-* 🤝  I'm open to collaborating on for new opportunities
+---
 
-### Skills
+## Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
-### Socials
+Also building with:
 
-<p align="left"> <a href="https://www.github.com/TsurevD" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tsuryevdan/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+---
+
+## Featured projects
+
+### [Cohort & RFM Analysis](https://github.com/TsurevD/Project1)
+**Python · pandas · Jupyter · Excel**
+
+Public case study on the Online Retail transaction dataset: monthly cohort retention (first-purchase cohorts and a retention heatmap) and RFM segmentation for Germany and France, including customer-value segments and charts.
+
+---
+
+### Selected product & analytics work
+
+*These projects are private, so there are no public links. Happy to walk through them in an interview.*
+
+- **Link, QR, and NFC analytics** — a short-link, UTM, QR, and NFC tool for marketers and businesses, with click, source, geo, and device reporting, plus geo, time, and A/B targeting.
+- **Family calling product** — a TypeScript web app and backend for people in Israel who call relatives in Eritrea (the other person does not need internet), including server-side billing, call routing, and analytics.
+- **Community product (Israel)** — a TypeScript / React Native app for Israel's partner-dance community (events, studios, and organizers, starting in Tel Aviv), with Supabase for auth and event data.
+
+---
+
+## GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TsurevD&show_icons=true&hide_border=true&theme=transparent" alt="TsurevD GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsurevD&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+---
+
+## Contact
+
+- 📍 Tel Aviv, Israel
+- 💼 LinkedIn: [linkedin.com/in/tsurev-dan-analyst](https://www.linkedin.com/in/tsurev-dan-analyst)
+- 🐙 GitHub: [github.com/TsurevD](https://github.com/TsurevD)
